@@ -1,0 +1,24 @@
+.success
+{
+    color: green;
+    font-weight: 600;
+}
+
+.error
+{
+    color: red;
+    font-weight: 600;
+}
+
+.info
+{
+    color: orange;
+    font-weight: 600;
+}
+
+.processing
+{
+    color: deepskyblue;
+    font-weight: 600;
+}
+
